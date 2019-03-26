@@ -1,11 +1,6 @@
-# [:] Example Ant Project
-An example ant project to demonstrate [srcclr](https://www.sourceclear.com) scans.
+# maven-project
+Source code for James Lee's Jenkins course.
 
-## Try me!
+Check out our Latest DevOps PDF book.
 
-```
-brew tap srcclr/srcclr
-brew install srcclr
-srcclr activate
-srcclr scan --url https://github.com/srcclr/example-java-ant
-```
+https://www.level-up.one/devops-pdf-book
