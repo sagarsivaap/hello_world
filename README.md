@@ -1,11 +1,12 @@
-# [:] Example Ant Project
-An example ant project to demonstrate [srcclr](https://www.sourceclear.com) scans.
+# Sample Ant-based Java project
 
-## Try me!
+This is an example of Java project with Ant build file.
 
-```
-brew tap srcclr/srcclr
-brew install srcclr
-srcclr activate
-srcclr scan --url https://github.com/srcclr/example-java-ant
-```
+Run the following command in the project directory:
+
+* `ant -p` to list all available targets,
+* `ant build` to build project (jar file),
+* `ant run` to run sample application,
+* `ant doc` to generate documentation,
+* `ant clean` to clean up project folder.
+
